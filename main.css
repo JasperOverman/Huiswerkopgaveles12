@@ -1,0 +1,37 @@
+header{
+  background-color: #ff0000;
+  width: 100%;
+  height: 200px;
+}
+footer{
+  background-color: #0000ff;
+  width: 100%;
+  height: 200px;
+}
+.plaatje{
+  width :300px
+}
+.Nederland{
+  color :#ff9933
+}
+.Italie{
+  color :#0099cc
+}
+.Qatar{
+  color :#003300
+}
+.Duitsland{
+  color :#ffff00
+}
+.Senegal{
+  color :#ccff00
+}
+.Engeland{
+  color :#ffffcc
+}
+.Ecuador{
+  color :#cc3300
+}
+.Spanje{
+  color :#ff0000
+}
