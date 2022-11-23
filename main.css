@@ -8,30 +8,89 @@ footer{
   width: 100%;
   height: 200px;
 }
+#cell1{
+  background-color: #ffffff;
+}
+#cell2{
+  background-color: #ffffcc;
+}
+#cell3{
+  background-color: #ffff99;
+}
+#cell4{
+  background-color: #ffff66;
+}
+#cell5{
+  background-color: #ffff33;
+}
+#cell6{
+  background-color: #ffff00;
+}
+#cell7{
+  background-color: #ccffff;
+}
+#cell8{
+  background-color: #ccffcc;
+}
+#cell9{
+  background-color: #ccff99;
+}
+#cell10{
+  background-color: #ccff66;
+}
+#cell11{
+  background-color: #ccff33;
+}
+#cell12{
+  background-color: #ccff00;
+}
+#cell13{
+  background-color: #99ffff;
+}
+#cell14{
+  background-color: #99ffcc;
+}
+#cell15{
+  background-color: #99ff99;
+}
+#cell16{
+  background-color: #99ff66;
+}
+.country1{
+  background-color :#123456;
+}
 .plaatje{
   width :300px
 }
 .Nederland{
-  color :#ff9933
+  color :#ff9933;
+  background-color :#ff00ff;
 }
 .Italie{
-  color :#0099cc
+  color :#0099cc;
+  background-color :#ff00cc;
 }
 .Qatar{
-  color :#003300
+  color :#003300;
+  background-color :#ff0099;
 }
 .Duitsland{
-  color :#ffff00
+  color :#ffff00;
+  background-color :#ff0066;
 }
 .Senegal{
-  color :#ccff00
+  color :#ccff00;
+  background-color :#ff0033;
 }
 .Engeland{
-  color :#ffffcc
+  color :#ffffcc;
+  background-color :#ff0000;
 }
 .Ecuador{
-  color :#cc3300
+  color :#cc3300;
+  background-color :#cc00cc;
 }
 .Spanje{
-  color :#ff0000
+  color :#ff0000;
+  background-color :#ff0099;
 }
